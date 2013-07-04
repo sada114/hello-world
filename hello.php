@@ -1,6 +1,8 @@
 <?
 class Hello
 {
-	public function world()
+	public function world(){
+		print "apa kata dunia";
+	}
 }
 ?>
